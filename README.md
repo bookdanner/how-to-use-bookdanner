@@ -1,8 +1,3 @@
----
-layout: default
-title:  How to Use Bookdanner
----
-
 ## ブック・ダナーのつかいかた
 
 (1) LINEのメッセージ入力欄左にある`+`を押して`カメラ`を選択！
