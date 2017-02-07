@@ -18,7 +18,7 @@
 |---|---|---|
 | ![](https://raw.githubusercontent.com/akumavideo/bookdanner-assets/master/images/manual_1.png) | ![](https://raw.githubusercontent.com/akumavideo/bookdanner-assets/master/images/manual_2.png) | ![](https://raw.githubusercontent.com/akumavideo/bookdanner-assets/master/images/manual_3.png) |
 
-(2) カメラが起動するので、本の背表紙を撮影してそのまま画像を送ってね☆  
+(2) カメラが起動するので、本の`背表紙`を撮影してそのまま画像を送ってね☆  
 ヒント：5冊くらいがベスト！
 
 (3) 後は待ってればブック・ダナー君が本を探してきてくれます！  
