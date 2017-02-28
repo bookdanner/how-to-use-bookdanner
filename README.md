@@ -18,7 +18,7 @@
 
 | STEP 1 | STEP 2 | STEP 3 |
 |---|---|---|
-| ![](https://raw.githubusercontent.com/akumavideo/bookdanner-assets/master/images/manual_1.png) | ![](https://raw.githubusercontent.com/akumavideo/bookdanner-assets/master/images/manual_2.png) | ![](https://raw.githubusercontent.com/akumavideo/bookdanner-assets/master/images/manual_3.png) |
+| ![](https://github.com/bookdanner/how-to-use-bookdanner/blob/master/manual_1.png?raw=true) | ![](https://github.com/bookdanner/how-to-use-bookdanner/blob/master/manual_2.png?raw=true) | ![](https://github.com/bookdanner/how-to-use-bookdanner/blob/master/manual_3.png?raw=true) |
 
 (2) カメラが起動するので、本の`背表紙`を撮影してそのまま画像を送ってね☆  
 ヒント：5冊くらいがベスト！
