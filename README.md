@@ -40,4 +40,6 @@
 
 ## Special Thanks
 
+<a href="http://www.irasutoya.com" target="_blank"><img src="https://github.com/bookdanner/how-to-use-bookdanner/blob/master/irasutoya_logo_sml.png?raw=true" border="0" alt="かわいいフリー素材集 いらすとや" title="かわいいフリー素材集 いらすとや"/></a>
+
 <a href="https://webservice.rakuten.co.jp/" target="_blank"><img src="https://webservice.rakuten.co.jp/img/credit/200709/credit_31130.gif" border="0" alt="楽天ウェブサービスセンター" title="楽天ウェブサービスセンター" width="311" height="30"/></a>
